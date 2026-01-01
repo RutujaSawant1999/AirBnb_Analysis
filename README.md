@@ -31,26 +31,26 @@ This project focuses on analyzing Airbnb listing data to uncover meaningful insi
 
 📂 Dataset Information
 
-Dataset Name: Airbnb Listings Dataset
+- Dataset Name: Airbnb Listings Dataset
 
-Source: [Kaggle / Inside Airbnb / Public Dataset]
+- Source: [Kaggle / Inside Airbnb / Public Dataset]
 
-Total Records: 102,599
+- Total Records: 102,599
 
-Total Features: 26
+- Total Features: 26
 
-Data Size: e.g., 50,000+ records
+- Data Size: e.g., 50,000+ records
 
-Dataset Type: Structured (CSV format)
+- Dataset Type: Structured (CSV format)
 
 
 📊 Tools & Technologies Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Excel(Optional)
+- Excel(Optional)
 
 
 🚀 Conclusion
